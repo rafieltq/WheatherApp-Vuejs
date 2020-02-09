@@ -33,7 +33,7 @@
 
 <script>
 
-
+import '@/assets/Styles.css';
 
 export default {
   name: 'App',
