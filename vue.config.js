@@ -1,6 +1,3 @@
 module.exports = {
-    publicPath: "vue-weather-app"
-    ? '/WheatherApp/'
-    : '/',
-
+    publicPath: "/vue-weather-app/"
 }
